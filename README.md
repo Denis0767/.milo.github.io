@@ -4,7 +4,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
 	<meta name="generator" content="LibreOffice 26.2.0.3 (Linux)"/>
 	<meta name="created" content="2026-02-16T13:27:18.935585240"/>
 	<meta name="changed" content="2026-02-16T16:02:27.066364490"/>
