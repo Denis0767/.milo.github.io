@@ -43,30 +43,6 @@
 <p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
 
 </p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
 <hr/>
 
 <h1 class="western">Встречайте MILO — Мини-Настольный
