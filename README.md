@@ -8,20 +8,6 @@
 	<meta name="generator" content="LibreOffice 26.2.0.3 (Linux)"/>
 	<meta name="created" content="2026-02-16T13:27:18.935585240"/>
 	<meta name="changed" content="2026-02-16T16:02:27.066364490"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { background: transparent; margin-bottom: 0.25cm; line-height: 115%; background: transparent }
-		h1 { margin-bottom: 0.21cm; background: transparent; background: transparent; page-break-after: avoid }
-		h1.western { font-weight: bold; font-size: 18pt; font-family: "Liberation Sans", sans-serif }
-		h1.cjk { font-weight: bold; font-size: 18pt; font-family: "Noto Sans" }
-		h1.ctl { font-weight: bold; font-family: "FreeSans"; font-size: 18pt }
-		h3 { margin-top: 0.25cm; margin-bottom: 0.21cm; background: transparent; background: transparent; page-break-after: avoid }
-		h3.western { font-weight: bold; font-size: 14pt; font-family: "Liberation Sans", sans-serif }
-		h3.cjk { font-weight: bold; font-size: 14pt; font-family: "Noto Sans" }
-		h3.ctl { font-weight: bold; font-family: "FreeSans"; font-size: 14pt }
-		a:link { color: #000080; text-decoration: underline }
-		a:visited { color: #800000; text-decoration: underline }
-	</style>
 </head>
 <body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="line-height: 100%; margin-bottom: 0cm">
 <img src="diy_html_2b3bc275.png" name="Изображение1" align="left" width="404" height="223" border="0"/>
