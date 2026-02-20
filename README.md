@@ -144,7 +144,7 @@ MILO также способствует социализации .
 <br/>
 
 </p>
-<button onclick="location.href='inst.html'">Перейти на инструкцию</button>
+<button>Перейти на инструкцию</button>
 <p><br/> 
 <br/>
 
